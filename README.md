@@ -11,7 +11,7 @@ Many factors go into a successful fundraising campaigan. With the data provided 
 
 <img src="images/Outcome-subcategories.png" width="800">
 
-<img src="images/images/Outcome-month.png" width="800">
+<img src="images/Outcome-month.png" width="800">
 
 <img src="images/Outcome-goals.png" width="800">
 
