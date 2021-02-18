@@ -5,4 +5,8 @@ Many factors go into a successful fundraising campaigan. With the data provided 
 2.	There are some limitations to this data set. One of the limitations being that several categories have many more entries than others. The conclusions drawn based off this data could be significantly different if other categories had an equal amount of entries as others. More accurate trends would be established if there were an equal amount of data entries
 3.	 There are several other tables and graphs that could be created with the data provided in order to help with better analysis. The first would be a table comparing the number of backers to the average donation amount. This would help explain if successful campaigns were funded by many small dollar donations, or if they were funded by few large dollar donations. A table can also be created to see if large/small donors were more likely to fund certain categories or sub-categories
 
-![](images/Original_data.png)
+![](images/Original_data.png-small)
+![](images/Outcome-categories.png)
+![](images/Outcome-subcategories.png)
+![](images/Outcomes-month.png)
+![](images/Outcome.goals.png)
